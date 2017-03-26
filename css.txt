@@ -5,12 +5,12 @@ body
 {
     background: url('images/background.jpg');
     font-family: 'Trebuchet MS', Arial, sans-serif;
-    color: #181818;
+    color: #253698;
 }
 
 #bloc_page
 {
-    width: 900px;
+    width: 500px;
     margin: auto;
 }
 
